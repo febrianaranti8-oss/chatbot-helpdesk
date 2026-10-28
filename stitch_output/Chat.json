@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/16633197516804546202/screens/30c2d5edccaa40c1b76b5efecead9cec\",\"title\":\"IT Helpdesk AI Assistant - Chat\",\"screenshot\":{\"name\":\"projects/16633197516804546202/screens/30c2d5edccaa40c1b76b5efecead9cec/fileEntries/screenshot\",\"downloadUrl\":\"https://stitch.googleapis.com/v1/projects/16633197516804546202/files/screenshot_00065edde0e3cd8901ee7ee3141e5c77:download\",\"mimeType\":\"image/png\"},\"htmlCode\":{\"name\":\"projects/16633197516804546202/screens/30c2d5edccaa40c1b76b5efecead9cec/fileEntries/html\",\"downloadUrl\":\"https://stitch.googleapis.com/v1/projects/16633197516804546202/files/30c2d5edccaa40c1b76b5efecead9cec:download\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2872\",\"deviceType\":\"MOBILE\"}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "deviceType": "MOBILE",
+      "height": "2872",
+      "htmlCode": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/16633197516804546202/files/30c2d5edccaa40c1b76b5efecead9cec:download",
+        "mimeType": "text/html",
+        "name": "projects/16633197516804546202/screens/30c2d5edccaa40c1b76b5efecead9cec/fileEntries/html"
+      },
+      "name": "projects/16633197516804546202/screens/30c2d5edccaa40c1b76b5efecead9cec",
+      "screenshot": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/16633197516804546202/files/screenshot_00065edde0e3cd8901ee7ee3141e5c77:download",
+        "mimeType": "image/png",
+        "name": "projects/16633197516804546202/screens/30c2d5edccaa40c1b76b5efecead9cec/fileEntries/screenshot"
+      },
+      "title": "IT Helpdesk AI Assistant - Chat",
+      "width": "780"
+    }
+  }
+}

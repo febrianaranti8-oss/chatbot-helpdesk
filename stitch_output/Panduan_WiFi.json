@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\"name\":\"projects/16633197516804546202/screens/4255a1aec5de44089baab950c4c3fadc\",\"title\":\"Panduan Diagnosa Mandiri Wi-Fi\",\"screenshot\":{\"name\":\"projects/16633197516804546202/screens/4255a1aec5de44089baab950c4c3fadc/fileEntries/screenshot\",\"downloadUrl\":\"https://stitch.googleapis.com/v1/projects/16633197516804546202/files/screenshot_00065edde077f46d0925d527ce1cecf4:download\",\"mimeType\":\"image/png\"},\"htmlCode\":{\"name\":\"projects/16633197516804546202/screens/4255a1aec5de44089baab950c4c3fadc/fileEntries/html\",\"downloadUrl\":\"https://stitch.googleapis.com/v1/projects/16633197516804546202/files/4255a1aec5de44089baab950c4c3fadc:download\",\"mimeType\":\"text/html\"},\"width\":\"780\",\"height\":\"2596\",\"deviceType\":\"MOBILE\"}",
+        "type": "text"
+      }
+    ],
+    "structuredContent": {
+      "deviceType": "MOBILE",
+      "height": "2596",
+      "htmlCode": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/16633197516804546202/files/4255a1aec5de44089baab950c4c3fadc:download",
+        "mimeType": "text/html",
+        "name": "projects/16633197516804546202/screens/4255a1aec5de44089baab950c4c3fadc/fileEntries/html"
+      },
+      "name": "projects/16633197516804546202/screens/4255a1aec5de44089baab950c4c3fadc",
+      "screenshot": {
+        "downloadUrl": "https://stitch.googleapis.com/v1/projects/16633197516804546202/files/screenshot_00065edde077f46d0925d527ce1cecf4:download",
+        "mimeType": "image/png",
+        "name": "projects/16633197516804546202/screens/4255a1aec5de44089baab950c4c3fadc/fileEntries/screenshot"
+      },
+      "title": "Panduan Diagnosa Mandiri Wi-Fi",
+      "width": "780"
+    }
+  }
+}

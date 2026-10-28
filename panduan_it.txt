@@ -1,0 +1,34 @@
+# PANDUAN IT HELPDESK INTERNAL KANTOR
+
+## 1. KONEKSI WI-FI KANTOR
+- Nama Wi-Fi resmi kantor: "Kantor-Office-5G" (khusus karyawan) dan "Kantor-Guest" (untuk tamu).
+- Kata sandi "Kantor-Office-5G": Gunakan username dan password email kantor masing-masing.
+- Kendala "Connected, no internet":
+  1. Matikan Wi-Fi di laptop (Toggle Off), tunggu 10 detik, lalu hidupkan kembali (Toggle On).
+  2. Lakukan "Forget Network" pada "Kantor-Office-5G", kemudian hubungkan ulang dengan memasukkan kredensial email.
+  3. Jika masih bermasalah, pastikan laptop tidak menggunakan VPN pihak ketiga di luar rekomendasi kantor.
+
+## 2. PANDUAN PENGGUNAAN ZOOM
+- Kendala Mikrofon atau Suara Tidak Terdengar:
+  1. Klik ikon panah di samping tombol "Mute/Unmute" di Zoom.
+  2. Pastikan pilihan "Select a Microphone" dan "Select a Speaker" mengarah ke perangkat yang aktif (misal: Realtek Audio atau Headset yang Anda colok).
+  3. Cek pengaturan privasi Windows: Buka Settings > Privacy & Security > Microphone, lalu pastikan "Allow desktop apps to access your microphone" dalam keadaan ON.
+- Kendala Tidak Bisa Share Screen:
+  1. Minta Host Zoom untuk mengizinkan peserta share screen melalui menu "Security" > centang "Share Screen".
+  2. Jika menggunakan Mac/Windows dengan proteksi layar, pastikan izin "Screen Recording" untuk Zoom sudah dicentang di pengaturan sistem.
+
+## 3. TROUBLESHOOTING LAPTOP RINGAN
+- Laptop Hang / Freeze / Aplikasi Not Responding:
+  1. Tekan tombol Ctrl + Shift + Esc untuk membuka Task Manager.
+  2. Cari aplikasi yang statusnya "Not Responding", klik kanan, lalu pilih "End Task".
+  3. Jangan langsung mencabut baterai atau menekan tombol power secara paksa kecuali laptop benar-benar tidak merespons sama sekali selama lebih dari 5 menit.
+- Cara Restart Aman saat Sistem Lambat:
+  1. Tutup semua dokumen kerja setelah menyimpannya (Save).
+  2. Klik Start Menu > Power > Restart (hindari memilih "Shut Down" jika fitur Windows Fast Startup aktif, karena Restart lebih bersih membersihkan memori RAM).
+
+## 4. ESKALASI KE TIM HELPDESK
+- Jika langkah-langkah mandiri di atas tidak menyelesaikan kendala, silakan hubungi tim IT Helpdesk:
+  - Email: it-helpdesk@kantor.local
+  - Ekstensi Telepon Internal: 104 atau 105
+  - Jam Layanan: Senin - Jumat, 08.00 - 17.00 WIB
+
